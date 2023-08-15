@@ -1,0 +1,9 @@
+{
+    "name": "admin/prim-proj-php",
+    "autoload": {
+        "psr-4": {
+            "Admin\\PrimProjPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
